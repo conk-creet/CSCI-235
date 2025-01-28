@@ -1,2 +1,2 @@
 # CSCI-235
-# Projects and Assignments for software algorithms
+Projects for Software Algorithms lol
