@@ -1,2 +1,2 @@
 # CSCI-235
-Projects for Software Algorithms lol
+Copy of gitclassroom repository for software algorithms
